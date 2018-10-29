@@ -62,6 +62,8 @@ int main(){
 
 Test:
        1, make
+       
        2, ./main
+       
        3,Output:('S', '('VERB_NP', '('Verb', ''book'')', '('NP', '('Det', ''the'')', '('Nominal', ''flight'')')')', '('PP', '('Preposition', ''through'')', '('NP', ''Houston'')')')
 
