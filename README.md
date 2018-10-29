@@ -1,6 +1,6 @@
 # CKY-Parsing-for-Context-Free-Grammar
 
-A CKY Parsing Algorithm for Context Free Grammar. Specifically, the Context Free Grammar is first to be convert to Chomsky Norm Form
+A CKY Parsing Algorithm for Context Free Grammar. Specifically, the Context Free Grammar is first to be converted to Chomsky Norm Form
 and then Apply CKY Algotrithm to the input sentence. 
 The result is synstactic tree structure of the input sentence.
 
