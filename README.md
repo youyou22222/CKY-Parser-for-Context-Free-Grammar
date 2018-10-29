@@ -61,10 +61,7 @@ int main(){
 ```
 
 
-Compile:
-       1. make
-Excute:       
-       2. ./main
-Out:       
-       3. ('S', '('VERB_NP', '('Verb', ''book'')', '('NP', '('Det', ''the'')', '('Nominal', ''flight'')')')', '('PP', '('Preposition', ''through'')', '('NP', ''Houston'')')')
+Compile:  1. make  
+Excute:   2. ./main   
+Out:      3. ('S', '('VERB_NP', '('Verb', ''book'')', '('NP', '('Det', ''the'')', '('Nominal', ''flight'')')')', '('PP', '('Preposition', ''through'')', '('NP', ''Houston'')')')
 
